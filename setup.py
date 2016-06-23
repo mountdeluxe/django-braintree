@@ -31,7 +31,7 @@ setup(
     zip_safe=False,
     install_requires=[
         'Django>=1.4.0',
-        'South>=0.7.2',
+        # 'South>=0.7.2',
         'braintree>=2.10.0',
         'django-common>=0.1',
         'fudge==1.0.3'
